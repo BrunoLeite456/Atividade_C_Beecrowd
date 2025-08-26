@@ -16,7 +16,7 @@ int main() {
         } else if (codigo == 4) {
             break;
         } else {
-            // Código inválido, apenas ignora e continua o loop
+            
             continue;
         }
     }
